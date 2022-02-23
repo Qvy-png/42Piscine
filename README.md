@@ -1,2 +1,2 @@
 # 42Piscine
-Just my own private 42's piscine github
+Just my own 42's piscine repo
