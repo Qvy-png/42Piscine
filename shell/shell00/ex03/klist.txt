@@ -1,0 +1,5 @@
+Credentials cache: API:FE0151FB-6786-40B3-8D47-DA3362E7C412
+        Principal: rdel-agu@42.FR
+
+  Issued                Expires               Principal
+Jun 28 14:00:59 2021  Jul  5 14:00:59 2021  krbtgt/42.FR@42.FR
